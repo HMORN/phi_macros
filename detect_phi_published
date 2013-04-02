@@ -1,0 +1,5 @@
+cd gitfiles
+git add detect_phi.sas
+git commit -m "Final version as of publication"
+git remote add origin https://github.com/HMORN/phi_macros.git
+git push origin master
